@@ -1,0 +1,2 @@
+
+GRANT ALL PRIVILEGES  ON hrdb.* TO 'anagha'@'%' IDENTIFIED BY 'anagha' WITH GRANT OPTION
